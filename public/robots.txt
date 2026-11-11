@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daking-dev.netlify.app/sitemap.xml
